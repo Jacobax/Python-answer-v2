@@ -1,4 +1,4 @@
-Python编程 从入门到实践——练习答案
+Python编程 从入门到实践——练习答案——第二版
 ===
 
 Python Crash Course - Second Edition
